@@ -1,0 +1,12 @@
+name: AdvIpLog
+version: 0.1
+
+description: Logs Players Ips
+
+author: McLuke300
+
+main: me.mcluke300.ipadvlog.ipadvlog
+
+commands:
+   Ail:
+      description: AdvIpLog Command Guide
